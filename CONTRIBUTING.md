@@ -2969,3 +2969,8 @@
 - Place: Dehradun, uttarakhand,India
 - Bio: A 2nd year student at DIT university pursuing BTech in cse ,  Ai-ML 
 - GitHub: [Dhruv-parihar](https://github.com/Dhruv-parihar)
+
+- #### Name: [Amitabh Kumar](https://github.com/kamitabh24)
+- Place: Delhi, India
+- Bio: Game Developer
+- GitHub: [kamitabh24](https://github.com/kamitabh24)
